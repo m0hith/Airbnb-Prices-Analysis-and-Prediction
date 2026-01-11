@@ -3,7 +3,7 @@
 ### Step 1: Run the Setup Script (Easiest)
 
 ```bash
-cd /Users/mohith/Desktop/Projects/Airbnb-Price-Analysis-and-Prediction
+cd /path/to/your/repo/
 ./setup_environment.sh
 ```
 
